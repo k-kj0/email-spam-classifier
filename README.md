@@ -7,7 +7,6 @@
 This repository contains the complete implementation for the research paper:
 
 **"Email Spam Classification: A Comparative Analysis of Machine Learning Approaches"**  
-*Kavya Jaiswal, Department of Computer Science and Engineering, Amity University Lucknow*
 
 ## 🚀 Quick Start
 
