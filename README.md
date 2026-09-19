@@ -1,23 +1,26 @@
-# 📧 Email Spam Classifier - Research Implementation
+# 📧 Email Spam Classifier
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Comparative study of 4 machine learning algorithms on email spam detection: Naive Bayes, SVM, Logistic Regression, and Random Forest.
 
-## 📖 About
-This repository contains the complete implementation for the research paper:
+## What this is
 
-**"Email Spam Classification: A Comparative Analysis of Machine Learning Approaches"**  
+A solo project comparing classical ML approaches on a spam classification task, with a written report covering methodology and results. Best-performing model reached 97%+ accuracy on the test set used.
 
-## 🚀 Quick Start
+## Quick start
 
-### Run Locally:
 ```bash
-# Clone repository
 git clone https://github.com/k-kj0/email-spam-classifier.git
 cd email-spam-classifier
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Run the demo
 python demo/app.py
+```
+
+## What's in the repo
+
+- Model training and comparison code
+- Written report (`Email_Spam_Classification_Paper.pdf`) covering approach, results, and limitations
+- Demo app to test the classifier
+
+## License
+
+MIT
